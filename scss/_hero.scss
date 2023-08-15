@@ -83,7 +83,7 @@
         z-index: 1;
 
         h2 {
-            font-weight: 700;
+            font-weight: 600;
             font-size: 82px;
             display: block;
             margin-bottom: 0;
@@ -92,13 +92,13 @@
             -webkit-text-fill-color: transparent;
             
             @media #{$breakpoint-xs} {
-                font-size: 42px;
+                font-size: 30px;
             }
         }
 
         p {
             color: $white;
-            margin-bottom: 50px;
+            margin-bottom: 20px;
             display: block;
         }
 
