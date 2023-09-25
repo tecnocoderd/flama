@@ -86,13 +86,13 @@
             font-weight: 600;
             font-size: 82px;
             display: block;
-            margin-bottom: 0;
-            background: -webkit-linear-gradient(#ff9696, #ffe89e);
+            margin-bottom: 10;
+            background: -webkit-linear-gradient(#ff9696, #fffffe);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             
             @media #{$breakpoint-xs} {
-                font-size: 30px;
+                font-size: 20px;
             }
         }
 
